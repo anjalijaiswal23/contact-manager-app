@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d2140c1.css",
+    "main.js": "/static/js/main.fa3cad51.js",
+    "static/media/DreamShaper_v5_background_image_for_to_do_list_1.jpg": "/static/media/DreamShaper_v5_background_image_for_to_do_list_1.12726feb423208ed6a95.jpg",
+    "static/media/about.jpg": "/static/media/about.fb693d5f2dc113dba635.jpg",
+    "index.html": "/index.html",
+    "main.0d2140c1.css.map": "/static/css/main.0d2140c1.css.map",
+    "main.fa3cad51.js.map": "/static/js/main.fa3cad51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d2140c1.css",
+    "static/js/main.fa3cad51.js"
+  ]
+}
